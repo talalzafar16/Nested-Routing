@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{ 
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    
+    background-color:rgba(159, 197, 217, 0.848);
+}
+.imag{
+    height:100%;
+    width:100%;
+    position:relative;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url("https://lalibert.com/wp-content/uploads/2021/12/pleasant-looking-afro-american-woman-holds-notepads-papers-studies-college-glad-finish-studying-min-2-984x1024.jpg")
+}
+.content{
+    position:fixed;
+    height: 100%;
+    width: 100%;
+    margin-top:130px;
+    margin-left:100px; 
+}
+.button{
+    background-color:red;
+}

@@ -1,0 +1,19 @@
+.upper{
+    background-color:black;
+    height:100px;
+    width:100%;
+}
+.vertical{
+    margin-top: -182px;
+    position:relative;
+    background-color:black;
+    height:540px;
+    width:200px;
+}
+.full{
+    background-color:antiquewhite;
+}
+.center{ 
+    margin-top:24px;
+    margin-left: 300px;
+}
